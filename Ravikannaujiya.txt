@@ -1,0 +1,87 @@
+this is Ravikant Kannaujiya
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /c/Users/RAVI KANT
+$ cd E://
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e
+$ mkdir assignment
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e
+$ cd assignment
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ mkdir source
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ mkdir destination
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ cd source
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ touch file.txt
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ cat>file.txt
+FunctionUp is best platform to increase skill
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ pwd
+/e/assignment/source
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ cd ..
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ cp source/file.txt destination
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ pwd
+/e/assignment
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ cd destination
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ rm file.txt
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ cd ..
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ cd source
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ mv source/file.txt destination
+mv: cannot stat 'source/file.txt': No such file or directory
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/source
+$ cd ..
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ mv source/file.txt destination
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment
+$ cd destination/
+FunctionUp is best platform to increase skilng going good better best everything going good better best everything going good better besty
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ grep -i 'FunctionUp' file.txt
+FunctionUp is best platform to increase skill
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ ls
+file.txt
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ vim file.txt
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$ grep -i 'FunctionUp' file.txt
+FunctionUp is best platform to increase skilng going good better best everything going good better best everything going good better besty
+
+RAVI KANT@DESKTOP-5LFH091 MINGW64 /e/assignment/destination
+$
