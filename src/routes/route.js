@@ -9,5 +9,6 @@ router.get("/cowin/centers", cowinController.getByPin)
 router.post("/cowin/getOtp", cowinController.getOtp)
 router.get("/getWeather",cowinController.getWeather)
 router.get("/cityTemp", cowinController.cityTemp)
+router.get("/assets",cowinController.cryptoCurrency)
 
 module.exports = router;
